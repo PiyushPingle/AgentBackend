@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymupdf
+chromadb
+sentence-transformers
+scikit-learn
+requests
+groq
+pillow
+pytesseract
+python-dotenv
